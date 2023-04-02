@@ -1,14 +1,18 @@
-### Hi there 👋
+# Hello, I'm Simeon Yanev! 👋
 
-<!--
-**simeonYanev/simeonYanev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me 
+I'm a Junior Front-End Web Developer and I'm looking for my first job in the field. Over the past year, I've gained experience working on various projects and have developed a strong set of skills that I'm excited to put to use. My goal is to become a member of a Professional Web Development Team in which I will be able to improve my current skills and acquire new ones. If I could say only one sentence about myself, it would be that I'm the type of person who doesn't know or can do everything, but is extremely hardworking, passionate and dedicated to learning and finding the best solutions!
+
+## My Skills 💻
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,bootstrap,tailwind,sass,styledcomponents,materialui,firebase,github,git,jquery,redux,vscode" />
+  </a>
+</p>
+
+## Stats 📊
+<img src="https://github-readme-stats.vercel.app/api?username=simeonYanev&show_icons=true&theme=react" />
+
+
+
+
